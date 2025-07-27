@@ -1,0 +1,15 @@
+{
+  "swagger": "2.0",
+  "info": { "version": "1.0", "title": "接口文档", "contact": {} },
+  "host": "localhost:8123",
+  "basePath": "/api",
+  "paths": {
+    "/test": {
+      "get": {
+        "summary": "测试接口",
+        "responses": { "200": { "description": "成功" } }
+      }
+    }
+  },
+  "x-openapi": {}
+}
