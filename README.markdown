@@ -82,7 +82,7 @@ UserManagement/
 
 ## 许可证
 
-[MIT License](LICENSE)（可选，替换为实际许可证）。
+[MIT License](LICENSE)
 
 ## 联系方式
 
